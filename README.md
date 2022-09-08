@@ -11,7 +11,8 @@ I'm a 21 years old developer, currently studying at Trybe, a Online Programing S
 *   🚀  I'm currently working on [VarejOnline - Sistema de Gestão Empresarial](http://www.varejonline.com.br/)
 *   🧠  I'm learning Shell Script, HTML, CSS, Git, GitHub and JavaScript
 *   🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-*   ⚡  I love games and my favorite is Apex Legends (DM me for a gameplay)### Skills<p align="left">
+*   ⚡  I love games and my favorite is Apex Legends (DM me for a gameplay)
+### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
