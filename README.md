@@ -9,7 +9,7 @@ I'm a 21 years old developer, currently studying at Trybe, a Online Programing S
 *   🌍  I'm based in São Paulo, SP
 *   ✉️  You can contact me at [ghma.em@gmail.com](mailto:ghma.em@gmail.com)
 *   🚀  I'm currently working on [VarejOnline - Sistema de Gestão Empresarial](http://www.varejonline.com.br/)
-*   🧠  I'm learning Shell Script, HTML, CSS, Git, GitHub, JavaScript, SCSS, Bootstrap, GSAP and JEST, React.
+*   🧠  I'm learning Shell Script, HTML, CSS, Git, GitHub, JavaScript, SCSS, Bootstrap, GSAP, JEST and React.
 *   🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 *   ⚡  I love games and my favorite is Apex Legends (DM me for a gameplay)
 ### Skills
