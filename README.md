@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Guilherme Araujo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Guilherme Araujo
 ========================================================================================================================================
 
 Full-stack Developer
 -------------------------------
 
-I'm a 21 years old developer.
+I'm a 22 years old developer.
 
 *   🌍  I'm based in São Paulo, SP
 *   ✉️  You can contact me on [ghma.em@gmail.com](mailto:ghma.em@gmail.com)
-*   🚀  I'm currently working at [VarejOnline - Sistema de Gestão Empresarial](http://www.varejonline.com.br/)
-*   🧠  I'm learning back-end technologies.
+*   🚀  I'm currently working at [Rede Ok - Serasa Experien](https://www.checkok.com.br/)
+*   🧠  I'm currently learning full stack technologies.
 *   🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 *   ⚡  I love games and my favorite is Apex Legends (DM me for a gameplay)
 
